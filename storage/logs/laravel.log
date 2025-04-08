@@ -1,0 +1,1072 @@
+[2025-04-08 16:42:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:43:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:44:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:45:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:46:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:47:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:48:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:49:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:50:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:51:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:52:05] local.ERROR: Trait "App\Models\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"App\\Models\\HasApiTokens\" not found at D:\\Laravel course\\MomentumTask\\app\\Models\\User.php:10)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:52:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:53:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:54:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:55:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:56:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:57:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:58:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 16:59:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:00:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:01:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:02:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:03:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:04:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:05:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:06:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:07:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:08:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:09:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:10:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:11:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:12:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:13:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:14:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:15:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:16:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:17:10] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 17:37:29] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:26:52] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:27:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:28:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:29:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:30:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:31:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:32:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:33:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:34:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:35:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:36:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:37:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:38:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:39:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:40:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:41:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:42:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:43:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:44:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:45:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:46:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:47:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:48:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:49:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:50:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:51:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:52:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:53:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:54:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:55:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:56:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:57:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:58:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 18:59:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:00:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:01:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:02:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:03:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:04:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:05:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:06:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:07:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:08:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:09:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:10:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:11:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:12:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:13:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:14:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:15:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:16:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:17:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:18:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:19:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:20:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:21:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:22:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:23:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:24:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:25:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:26:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:27:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:28:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:29:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:30:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:31:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:31:36] local.ERROR: Method Illuminate\Auth\SessionGuard::auth does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Auth\\SessionGuard::auth does not exist. at D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Macroable\\Traits\\Macroable.php:115)
+[stacktrace]
+#0 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\AuthManager.php(338): Illuminate\\Auth\\SessionGuard->__call('auth', Array)
+#1 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(361): Illuminate\\Auth\\AuthManager->__call('auth', Array)
+#2 D:\\Laravel course\\MomentumTask\\app\\Http\\Controllers\\Api\\AuthController.php(101): Illuminate\\Support\\Facades\\Facade::__callStatic('auth', Array)
+#3 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(46): App\\Http\\Controllers\\Api\\AuthController->logout('1')
+#4 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Api\\AuthController), 'logout')
+#5 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#6 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#7 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#8 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#12 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(24): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#14 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#15 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#42 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#43 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#44 D:\\Laravel course\\MomentumTask\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#45 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Laravel cour...')
+#46 {main}
+"} 
+[2025-04-08 19:32:13] local.ERROR: Method Illuminate\Auth\SessionGuard::auth does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Auth\\SessionGuard::auth does not exist. at D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Macroable\\Traits\\Macroable.php:115)
+[stacktrace]
+#0 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\AuthManager.php(338): Illuminate\\Auth\\SessionGuard->__call('auth', Array)
+#1 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(361): Illuminate\\Auth\\AuthManager->__call('auth', Array)
+#2 D:\\Laravel course\\MomentumTask\\app\\Http\\Controllers\\Api\\AuthController.php(101): Illuminate\\Support\\Facades\\Facade::__callStatic('auth', Array)
+#3 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(46): App\\Http\\Controllers\\Api\\AuthController->logout('1')
+#4 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Api\\AuthController), 'logout')
+#5 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#6 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#7 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#8 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#12 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(24): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#14 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#15 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#42 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#43 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#44 D:\\Laravel course\\MomentumTask\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#45 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Laravel cour...')
+#46 {main}
+"} 
+[2025-04-08 19:32:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:33:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:34:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:35:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:36:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:37:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:38:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:39:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:40:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:41:20] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:42:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:43:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:44:00] local.ERROR: Method Illuminate\Auth\SessionGuard::auth does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Auth\\SessionGuard::auth does not exist. at D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Macroable\\Traits\\Macroable.php:115)
+[stacktrace]
+#0 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\AuthManager.php(338): Illuminate\\Auth\\SessionGuard->__call('auth', Array)
+#1 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(361): Illuminate\\Auth\\AuthManager->__call('auth', Array)
+#2 D:\\Laravel course\\MomentumTask\\app\\Http\\Controllers\\Api\\AuthController.php(101): Illuminate\\Support\\Facades\\Facade::__callStatic('auth', Array)
+#3 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(46): App\\Http\\Controllers\\Api\\AuthController->logout('1')
+#4 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Api\\AuthController), 'logout')
+#5 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#6 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#7 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#8 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#12 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(24): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#14 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#15 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#42 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#43 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#44 D:\\Laravel course\\MomentumTask\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#45 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Laravel cour...')
+#46 {main}
+"} 
+[2025-04-08 19:44:01] local.ERROR: Method Illuminate\Auth\SessionGuard::auth does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Auth\\SessionGuard::auth does not exist. at D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Macroable\\Traits\\Macroable.php:115)
+[stacktrace]
+#0 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\AuthManager.php(338): Illuminate\\Auth\\SessionGuard->__call('auth', Array)
+#1 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(361): Illuminate\\Auth\\AuthManager->__call('auth', Array)
+#2 D:\\Laravel course\\MomentumTask\\app\\Http\\Controllers\\Api\\AuthController.php(101): Illuminate\\Support\\Facades\\Facade::__callStatic('auth', Array)
+#3 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(46): App\\Http\\Controllers\\Api\\AuthController->logout('1')
+#4 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Api\\AuthController), 'logout')
+#5 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#6 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#7 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#8 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#12 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(24): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#14 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#15 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#42 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#43 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#44 D:\\Laravel course\\MomentumTask\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#45 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Laravel cour...')
+#46 {main}
+"} 
+[2025-04-08 19:44:07] local.ERROR: Method Illuminate\Auth\SessionGuard::auth does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Auth\\SessionGuard::auth does not exist. at D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Macroable\\Traits\\Macroable.php:115)
+[stacktrace]
+#0 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\AuthManager.php(338): Illuminate\\Auth\\SessionGuard->__call('auth', Array)
+#1 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(361): Illuminate\\Auth\\AuthManager->__call('auth', Array)
+#2 D:\\Laravel course\\MomentumTask\\app\\Http\\Controllers\\Api\\AuthController.php(101): Illuminate\\Support\\Facades\\Facade::__callStatic('auth', Array)
+#3 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(46): App\\Http\\Controllers\\Api\\AuthController->logout('1')
+#4 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Api\\AuthController), 'logout')
+#5 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#6 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#7 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#8 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#12 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(24): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#14 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#15 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#42 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#43 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#44 D:\\Laravel course\\MomentumTask\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#45 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Laravel cour...')
+#46 {main}
+"} 
+[2025-04-08 19:44:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:44:30] local.ERROR: Method Illuminate\Auth\SessionGuard::auth does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Auth\\SessionGuard::auth does not exist. at D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Macroable\\Traits\\Macroable.php:115)
+[stacktrace]
+#0 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\AuthManager.php(338): Illuminate\\Auth\\SessionGuard->__call('auth', Array)
+#1 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(361): Illuminate\\Auth\\AuthManager->__call('auth', Array)
+#2 D:\\Laravel course\\MomentumTask\\app\\Http\\Controllers\\Api\\AuthController.php(101): Illuminate\\Support\\Facades\\Facade::__callStatic('auth', Array)
+#3 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(46): App\\Http\\Controllers\\Api\\AuthController->logout('1')
+#4 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Api\\AuthController), 'logout')
+#5 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#6 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#7 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#8 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#12 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(24): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#14 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#15 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#42 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#43 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#44 D:\\Laravel course\\MomentumTask\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#45 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Laravel cour...')
+#46 {main}
+"} 
+[2025-04-08 19:45:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:46:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:47:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:48:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:49:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:50:20] local.ERROR: Attempt to read property "id" on null {"exception":"[object] (ErrorException(code: 0): Attempt to read property \"id\" on null at D:\\Laravel course\\MomentumTask\\app\\Http\\Controllers\\Api\\AuthController.php:99)
+[stacktrace]
+#0 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\HandleExceptions.php(256): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'Attempt to read...', 'D:\\\\Laravel cour...', 99)
+#1 D:\\Laravel course\\MomentumTask\\app\\Http\\Controllers\\Api\\AuthController.php(99): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}(2, 'Attempt to read...', 'D:\\\\Laravel cour...', 99)
+#2 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(46): App\\Http\\Controllers\\Api\\AuthController->logout('1')
+#3 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Api\\AuthController), 'logout')
+#4 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#5 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#6 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#8 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#9 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#10 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#11 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(24): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#13 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#14 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#15 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#16 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#17 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#18 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#19 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#20 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#21 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#35 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#38 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#39 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#40 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#41 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#42 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#43 D:\\Laravel course\\MomentumTask\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#44 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Laravel cour...')
+#45 {main}
+"} 
+[2025-04-08 19:50:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:51:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:52:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:53:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:54:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:55:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:56:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:57:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:58:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 19:59:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:00:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:01:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:02:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:03:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:04:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:05:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:06:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:07:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:08:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:08:57] local.ERROR: Undefined variable $data {"userId":1,"exception":"[object] (ErrorException(code: 0): Undefined variable $data at D:\\Laravel course\\MomentumTask\\app\\Http\\Controllers\\Api\\PostController.php:116)
+[stacktrace]
+#0 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\HandleExceptions.php(256): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'Undefined varia...', 'D:\\\\Laravel cour...', 116)
+#1 D:\\Laravel course\\MomentumTask\\app\\Http\\Controllers\\Api\\PostController.php(116): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}(2, 'Undefined varia...', 'D:\\\\Laravel cour...', 116)
+#2 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(46): App\\Http\\Controllers\\Api\\PostController->viewDeletedPosts('1')
+#3 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Api\\PostController), 'viewDeletedPost...')
+#4 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#5 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#6 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#8 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#9 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#10 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'sanctum')
+#11 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#13 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(24): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#15 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#16 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#17 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#18 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#19 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#20 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#21 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#22 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#23 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#35 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#38 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#39 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#40 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#41 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#42 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#43 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#44 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#45 D:\\Laravel course\\MomentumTask\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#46 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Laravel cour...')
+#47 {main}
+"} 
+[2025-04-08 20:09:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:10:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:11:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:12:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:13:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:14:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:15:12] local.ERROR: Route [login] not defined. {"exception":"[object] (Symfony\\Component\\Routing\\Exception\\RouteNotFoundException(code: 0): Route [login] not defined. at D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\UrlGenerator.php:526)
+[stacktrace]
+#0 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\helpers.php(853): Illuminate\\Routing\\UrlGenerator->route('login', Array, true)
+#1 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Configuration\\ApplicationBuilder.php(278): route('login')
+#2 [internal function]: Illuminate\\Foundation\\Configuration\\ApplicationBuilder->Illuminate\\Foundation\\Configuration\\{closure}(Object(Illuminate\\Http\\Request))
+#3 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(117): call_user_func(Object(Closure), Object(Illuminate\\Http\\Request))
+#4 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(104): Illuminate\\Auth\\Middleware\\Authenticate->redirectTo(Object(Illuminate\\Http\\Request))
+#5 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(87): Illuminate\\Auth\\Middleware\\Authenticate->unauthenticated(Object(Illuminate\\Http\\Request), Array)
+#6 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(61): Illuminate\\Auth\\Middleware\\Authenticate->authenticate(Object(Illuminate\\Http\\Request), Array)
+#7 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Auth\\Middleware\\Authenticate->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'sanctum')
+#8 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->Laravel\\Sanctum\\Http\\Middleware\\{closure}(Object(Illuminate\\Http\\Request))
+#10 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\sanctum\\src\\Http\\Middleware\\EnsureFrontendRequestsAreStateful.php(24): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#12 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Laravel\\Sanctum\\Http\\Middleware\\EnsureFrontendRequestsAreStateful->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#15 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#16 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#17 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#18 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#19 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#20 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#40 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#41 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#42 D:\\Laravel course\\MomentumTask\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#43 D:\\Laravel course\\MomentumTask\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Laravel cour...')
+#44 {main}
+"} 
+[2025-04-08 20:15:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:16:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:17:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:18:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:19:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:20:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:21:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:22:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-08 20:23:21] local.ERROR: Cannot redeclare App\apiResponse() (previously declared in D:\Laravel course\MomentumTask\app\Helpers.php:6) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\apiResponse() (previously declared in D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6) at D:\\Laravel course\\MomentumTask\\app\\Helpers.php:6)
+[stacktrace]
+#0 {main}
+"} 
